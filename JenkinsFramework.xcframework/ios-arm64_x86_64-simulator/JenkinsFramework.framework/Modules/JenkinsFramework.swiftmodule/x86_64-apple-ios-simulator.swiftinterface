@@ -5,8 +5,8 @@ import Foundation
 @_exported import JenkinsFramework
 import Swift
 import _Concurrency
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class JenkinsFramework : ObjectiveC.NSObject {
-  public static var shared: JenkinsFramework.JenkinsFramework
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class Jenkins : ObjectiveC.NSObject {
+  public static var shared: JenkinsFramework.Jenkins
   public func setupJenkinsFramework()
   public func add(a1: Swift.Int, a2: Swift.Int) -> Swift.Int
   public func sub(a1: Swift.Int, a2: Swift.Int) -> Swift.Int

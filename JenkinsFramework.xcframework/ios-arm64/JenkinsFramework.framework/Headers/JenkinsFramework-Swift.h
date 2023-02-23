@@ -214,8 +214,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
-SWIFT_CLASS("_TtC16JenkinsFramework16JenkinsFramework")
-@interface JenkinsFramework : NSObject
+SWIFT_CLASS("_TtC16JenkinsFramework7Jenkins")
+@interface Jenkins : NSObject
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/JenkinsFramework-Swift.h</key>
 		<data>
-		+6liupuV3azitwj72wOJAECgEJc=
+		3PPbI704WEJDzRIhIHFSYCm8Qrg=
 		</data>
 		<key>Headers/JenkinsFramework.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/JenkinsFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0e0npuJwzDgUhWkp5r/fkEv0940=
+		spenPNKVbIJ4pL5Eml3YR5gSDVM=
 		</data>
 		<key>Modules/JenkinsFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tnbLZCrF03bRxdOQsbBld1knhWU=
+		k9vTIifgETigxwlQOCz1YKn9ND4=
 		</data>
 		<key>Modules/JenkinsFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/JenkinsFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LdcmIGIyFcgCFw5HPIWM/Jwgu9M=
+		ve8FmZRpVgDLEmYdzOe+gI/xAwg=
 		</data>
 		<key>Modules/JenkinsFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b25fKYEtF+vJHD7XUM6SCUvjXJw=
+		HPjnPqKjvDYfLEOWCBCb420KvJ4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wVR3p8udkxsOU/TZ7REPQknV3CIaTbv9RyT0syoAw0U=
+			oQX1c5WaFEoLMrDhef1sd/Sep2JPgiydEuQu8g19H8M=
 			</data>
 		</dict>
 		<key>Headers/JenkinsFramework.h</key>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			F1mA+aDeswWuPKSN0X5KPcu8KOkrotbCgqCmb4F0L3I=
+			oyULv9FFinZdGXbnFWB9voawSjOwgNiktYDKn90ZfiI=
 			</data>
 		</dict>
 		<key>Modules/JenkinsFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cygOptJtiwu1INuBhcsWgWwyOMWJIu81H+4zDz8faUE=
+			4swzLgUQsRa0hfdztIhqd9pVhKWwFRmkKbs13KxFNLY=
 			</data>
 		</dict>
 		<key>Modules/JenkinsFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCRXcFxe8ATBFiI2oDjkXQKN18qnDXRdB25PuZO/IgM=
+			RmE140bzPa1+x3sEUXV6Y82IuMKZwulIGueC8tQL31U=
 			</data>
 		</dict>
 		<key>Modules/JenkinsFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AyWkX4hEY5ulYx4tVWozC0IHq17nHiH0HaPFRV8MUe8=
+			TNmtdG/3dWl5TqlHNuSLCpvVOcAE5rmK8ViifgINZBQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
